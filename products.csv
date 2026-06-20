@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,Brand,Rating,Description
+101,Wireless Mouse,Electronics,799,Logitech,4.4,Ergonomic wireless mouse with USB receiver
+102,Gaming Keyboard,Electronics,1499,Redragon,4.5,RGB mechanical gaming keyboard
+103,Bluetooth Headphones,Electronics,2499,Boat,4.3,Noise isolation wireless headphones
+104,Smartphone A1,Mobiles,12999,Xiaomi,4.2,5000mAh battery and 50MP camera
+105,Smartphone Pro,Mobiles,24999,Samsung,4.6,AMOLED display and fast charging
+106,Gaming Laptop,Laptops,74999,Acer,4.7,RTX graphics and 16GB RAM
+107,Business Laptop,Laptops,54999,HP,4.5,Lightweight laptop for office work
+108,Smart Watch,Fitness,3999,Noise,4.1,Heart rate and sleep tracking
+109,Fitness Band,Fitness,1999,Mi,4.2,Step tracking and health monitoring
+110,Air Fryer,Home Appliances,4999,Philips,4.4,Oil free healthy cooking
+111,Coffee Maker,Home Appliances,3499,Prestige,4.3,Automatic coffee brewing machine
+112,Running Shoes,Fashion,2999,Adidas,4.5,Comfortable sports shoes
+113,Casual Sneakers,Fashion,2499,Puma,4.2,Daily wear sneakers
+114,Backpack,Fashion,1299,Wildcraft,4.4,Water resistant laptop backpack
+115,Programming Book,Books,699,Pearson,4.7,Python programming guide
+116,Data Science Book,Books,899,OReilly,4.8,Machine learning and analytics
+117,Gaming Monitor,Electronics,12999,LG,4.6,144Hz Full HD gaming monitor
+118,External SSD,Electronics,5999,Samsung,4.7,Fast portable SSD storage
+119,Tablet X,Electronics,18999,Lenovo,4.3,10 inch Android tablet
+120,Power Bank,Electronics,1499,Ambrane,4.2,20000mAh fast charging power bank
